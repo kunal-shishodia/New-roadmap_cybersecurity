@@ -1,16 +1,16 @@
-#linux fundamentals 
+# linux fundamentals 
 Command Line: ls , grep , cat , find , strings
 Permissions & Ownership: chmod , chown
 Process & Network Mgmt: ps , netstat , lsof , curl
 Scripting: Bash scripting basics
-#2. Networking
+# 2. Networking
 Concepts: OSI & TCP/IP models, IP addressing, ports, routing
 Protocols: HTTP, DNS, FTP, SSH
 Tools: nmap , netcat , tcpdump , Wireshark
-#3. Programming & Scripting
+# 3. Programming & Scripting
 Languages: Python, C/C++, JavaScript
 Concepts: Regex, basic scripting logic, automation
-#4. Cryptography
+# 4. Cryptography
 Concepts: Symmetric vs asymmetric encryption, hashing, common encodings
 Encryption: AES, RSA
 Hashing: MD5, SHA1, SHA256
